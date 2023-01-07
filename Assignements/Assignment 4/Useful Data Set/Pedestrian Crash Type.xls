@@ -1,0 +1,551 @@
+
+		<font size="+1"><strong>PBCAT</strong></font>
+		<div class="branch">
+<a name="IDX"></a>
+<table class="systitleandfootercontainer" width="100%" summary="Page Layout">
+<tr>
+<td class="c systemtitle">City of Charlotte                                                                                                                                                                                        Pedestrian Crash Data - Crash Type                                                                                                                                                                                                                                                      </td>
+</tr>
+<tr>
+<td class="c systemtitle2">For Years 2015,2016,2017,2018,2019</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="1" cellpadding="7" rules="all" frame="box" summary="Procedure Tabulate: Table 1">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="c m header" rowspan="2" scope="col">Crash Type                                                                                                                                                                                                                                                      </th>
+<th class="c header" colspan="5" scope="colgroup">Crash Year</th>
+<th class="c header" rowspan="2" scope="col">Total</th>
+</tr>
+<tr>
+<th class="c header" scope="col">        2015</th>
+<th class="c header" scope="col">        2016</th>
+<th class="c header" scope="col">        2017</th>
+<th class="c header" scope="col">        2018</th>
+<th class="c header" scope="col">        2019</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="l t rowheader" scope="row">Assault with Vehicle                                </th>
+<td class="r b data">     3</td>
+<td class="r b data">     4</td>
+<td class="r b data">     3</td>
+<td class="r b data">     4</td>
+<td class="r b data">     5</td>
+<td class="r b data">    19</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Backing Vehicle - Driveway                          </th>
+<td class="r b data">     3</td>
+<td class="r b data">     4</td>
+<td class="r b data">     1</td>
+<td class="r b data">     2</td>
+<td class="r b data">     3</td>
+<td class="r b data">    13</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Backing Vehicle - Driveway / Sidewalk Intersection  </th>
+<td class="r b data">     3</td>
+<td class="r b data">     2</td>
+<td class="r b data">     2</td>
+<td class="r b data">     3</td>
+<td class="r b data">0</td>
+<td class="r b data">    10</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Backing Vehicle - Other / Unknown                   </th>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Backing Vehicle - Parking Lot                       </th>
+<td class="r b data">    34</td>
+<td class="r b data">    39</td>
+<td class="r b data">    52</td>
+<td class="r b data">    22</td>
+<td class="r b data">    30</td>
+<td class="r b data">   177</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Backing Vehicle - Roadway                           </th>
+<td class="r b data">     2</td>
+<td class="r b data">     3</td>
+<td class="r b data">    12</td>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">    18</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Commercial Bus-Related                              </th>
+<td class="r b data">0</td>
+<td class="r b data">     2</td>
+<td class="r b data">     2</td>
+<td class="r b data">     2</td>
+<td class="r b data">     1</td>
+<td class="r b data">     7</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Crossing an Expressway                              </th>
+<td class="r b data">     1</td>
+<td class="r b data">     1</td>
+<td class="r b data">     4</td>
+<td class="r b data">     3</td>
+<td class="r b data">     6</td>
+<td class="r b data">    15</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Dart-Out                                            </th>
+<td class="r b data">    10</td>
+<td class="r b data">    15</td>
+<td class="r b data">     8</td>
+<td class="r b data">     6</td>
+<td class="r b data">     5</td>
+<td class="r b data">    44</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Dash                                                </th>
+<td class="r b data">    41</td>
+<td class="r b data">    43</td>
+<td class="r b data">    27</td>
+<td class="r b data">    46</td>
+<td class="r b data">    38</td>
+<td class="r b data">   195</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Disabled Vehicle-Related                            </th>
+<td class="r b data">     7</td>
+<td class="r b data">    10</td>
+<td class="r b data">     4</td>
+<td class="r b data">    16</td>
+<td class="r b data">    11</td>
+<td class="r b data">    48</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Dispute-Related                                     </th>
+<td class="r b data">    16</td>
+<td class="r b data">    25</td>
+<td class="r b data">    15</td>
+<td class="r b data">    19</td>
+<td class="r b data">    19</td>
+<td class="r b data">    94</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Driverless Vehicle                                  </th>
+<td class="r b data">     1</td>
+<td class="r b data">     6</td>
+<td class="r b data">     9</td>
+<td class="r b data">     5</td>
+<td class="r b data">     2</td>
+<td class="r b data">    23</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Emergency Vehicle-Related                           </th>
+<td class="r b data">     1</td>
+<td class="r b data">     2</td>
+<td class="r b data">     2</td>
+<td class="r b data">0</td>
+<td class="r b data">     3</td>
+<td class="r b data">     8</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Entering / Exiting Parked Vehicle                   </th>
+<td class="r b data">     2</td>
+<td class="r b data">     1</td>
+<td class="r b data">     5</td>
+<td class="r b data">     3</td>
+<td class="r b data">     2</td>
+<td class="r b data">    13</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Ice Cream / Vendor Truck-Related                    </th>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">     2</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Intersection - Other / Unknown                      </th>
+<td class="r b data">     6</td>
+<td class="r b data">     8</td>
+<td class="r b data">    10</td>
+<td class="r b data">     5</td>
+<td class="r b data">     4</td>
+<td class="r b data">    33</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Lying in Roadway                                    </th>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+<td class="r b data">     2</td>
+<td class="r b data">     2</td>
+<td class="r b data">     4</td>
+<td class="r b data">     9</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Mailbox-Related                                     </th>
+<td class="r b data">     1</td>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     2</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motor Vehicle Loss of Control                       </th>
+<td class="r b data">    11</td>
+<td class="r b data">    10</td>
+<td class="r b data">     7</td>
+<td class="r b data">    10</td>
+<td class="r b data">    16</td>
+<td class="r b data">    54</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Entering Driveway or Alley                 </th>
+<td class="r b data">     3</td>
+<td class="r b data">     2</td>
+<td class="r b data">     2</td>
+<td class="r b data">     3</td>
+<td class="r b data">     2</td>
+<td class="r b data">    12</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Exiting Driveway or Alley                  </th>
+<td class="r b data">    21</td>
+<td class="r b data">    17</td>
+<td class="r b data">     7</td>
+<td class="r b data">    16</td>
+<td class="r b data">    17</td>
+<td class="r b data">    78</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Failed to Yield                            </th>
+<td class="r b data">     6</td>
+<td class="r b data">     6</td>
+<td class="r b data">    14</td>
+<td class="r b data">    12</td>
+<td class="r b data">     4</td>
+<td class="r b data">    42</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Left Turn - Parallel Paths                 </th>
+<td class="r b data">    55</td>
+<td class="r b data">    48</td>
+<td class="r b data">    62</td>
+<td class="r b data">    61</td>
+<td class="r b data">    70</td>
+<td class="r b data">   296</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Left Turn - Perpendicular Paths            </th>
+<td class="r b data">     5</td>
+<td class="r b data">     2</td>
+<td class="r b data">     7</td>
+<td class="r b data">     3</td>
+<td class="r b data">     3</td>
+<td class="r b data">    20</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Right Turn - Parallel Paths                </th>
+<td class="r b data">    13</td>
+<td class="r b data">    29</td>
+<td class="r b data">    22</td>
+<td class="r b data">    13</td>
+<td class="r b data">    10</td>
+<td class="r b data">    87</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Right Turn - Perpendicular Paths           </th>
+<td class="r b data">    18</td>
+<td class="r b data">    11</td>
+<td class="r b data">    18</td>
+<td class="r b data">    16</td>
+<td class="r b data">    13</td>
+<td class="r b data">    76</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Right Turn on Red - Parallel Paths         </th>
+<td class="r b data">     2</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+<td class="r b data">     4</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Right Turn on Red - Perpendicular Paths    </th>
+<td class="r b data">    14</td>
+<td class="r b data">    10</td>
+<td class="r b data">     9</td>
+<td class="r b data">     8</td>
+<td class="r b data">     8</td>
+<td class="r b data">    49</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Motorist Turn / Merge - Other / Unknown             </th>
+<td class="r b data">     2</td>
+<td class="r b data">     3</td>
+<td class="r b data">     2</td>
+<td class="r b data">     5</td>
+<td class="r b data">0</td>
+<td class="r b data">    12</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Multiple Threat                                     </th>
+<td class="r b data">    11</td>
+<td class="r b data">     3</td>
+<td class="r b data">     5</td>
+<td class="r b data">     7</td>
+<td class="r b data">     8</td>
+<td class="r b data">    34</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Non-Intersection - Other / Unknown                  </th>
+<td class="r b data">     3</td>
+<td class="r b data">     3</td>
+<td class="r b data">     2</td>
+<td class="r b data">     2</td>
+<td class="r b data">     1</td>
+<td class="r b data">    11</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Off Roadway - Other / Unknown                       </th>
+<td class="r b data">0</td>
+<td class="r b data">     4</td>
+<td class="r b data">     5</td>
+<td class="r b data">    15</td>
+<td class="r b data">     7</td>
+<td class="r b data">    31</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Off Roadway - Parking Lot                           </th>
+<td class="r b data">    47</td>
+<td class="r b data">    57</td>
+<td class="r b data">    65</td>
+<td class="r b data">    62</td>
+<td class="r b data">    56</td>
+<td class="r b data">   287</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Other - Unknown Location                            </th>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+<td class="r b data">     2</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Other Unusual Circumstances                         </th>
+<td class="r b data">     2</td>
+<td class="r b data">     3</td>
+<td class="r b data">     1</td>
+<td class="r b data">     1</td>
+<td class="r b data">     5</td>
+<td class="r b data">    12</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Pedestrian Failed to Yield                          </th>
+<td class="r b data">    67</td>
+<td class="r b data">    83</td>
+<td class="r b data">    58</td>
+<td class="r b data">    98</td>
+<td class="r b data">    71</td>
+<td class="r b data">   377</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Pedestrian Loss of Control                          </th>
+<td class="r b data">     1</td>
+<td class="r b data">     3</td>
+<td class="r b data">     2</td>
+<td class="r b data">     4</td>
+<td class="r b data">     1</td>
+<td class="r b data">    11</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Pedestrian on Vehicle                               </th>
+<td class="r b data">     2</td>
+<td class="r b data">     7</td>
+<td class="r b data">     5</td>
+<td class="r b data">     2</td>
+<td class="r b data">     2</td>
+<td class="r b data">    18</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Play Vehicle-Related                                </th>
+<td class="r b data">     6</td>
+<td class="r b data">     8</td>
+<td class="r b data">    10</td>
+<td class="r b data">    14</td>
+<td class="r b data">     6</td>
+<td class="r b data">    44</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Playing in Roadway                                  </th>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+<td class="r b data">     1</td>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">     3</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">School Bus-Related                                  </th>
+<td class="r b data">     6</td>
+<td class="r b data">     3</td>
+<td class="r b data">     3</td>
+<td class="r b data">     7</td>
+<td class="r b data">     2</td>
+<td class="r b data">    21</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Standing in Roadway                                 </th>
+<td class="r b data">     7</td>
+<td class="r b data">    14</td>
+<td class="r b data">     6</td>
+<td class="r b data">     8</td>
+<td class="r b data">     6</td>
+<td class="r b data">    41</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Trapped                                             </th>
+<td class="r b data">     1</td>
+<td class="r b data">     2</td>
+<td class="r b data">     4</td>
+<td class="r b data">     1</td>
+<td class="r b data">     2</td>
+<td class="r b data">    10</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Vehicle-Vehicle / Object                            </th>
+<td class="r b data">    24</td>
+<td class="r b data">    14</td>
+<td class="r b data">    19</td>
+<td class="r b data">    14</td>
+<td class="r b data">    19</td>
+<td class="r b data">    90</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Waiting to Cross - Vehicle Action Unknown           </th>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Waiting to Cross - Vehicle Not Turning              </th>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     2</td>
+<td class="r b data">     1</td>
+<td class="r b data">     3</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Waiting to Cross - Vehicle Turning                  </th>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+<td class="r b data">     2</td>
+<td class="r b data">     3</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Walking Along Roadway - Direction / Position Unknown</th>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     1</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Walking Along Roadway Against Traffic - From Behind </th>
+<td class="r b data">     2</td>
+<td class="r b data">     1</td>
+<td class="r b data">     2</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     5</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Walking Along Roadway Against Traffic - From Front  </th>
+<td class="r b data">     6</td>
+<td class="r b data">     7</td>
+<td class="r b data">     8</td>
+<td class="r b data">     7</td>
+<td class="r b data">     5</td>
+<td class="r b data">    33</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Walking Along Roadway With Traffic - From Behind    </th>
+<td class="r b data">    19</td>
+<td class="r b data">    22</td>
+<td class="r b data">    14</td>
+<td class="r b data">    21</td>
+<td class="r b data">    16</td>
+<td class="r b data">    92</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Walking Along Roadway With Traffic - From Front     </th>
+<td class="r b data">0</td>
+<td class="r b data">     2</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">0</td>
+<td class="r b data">     2</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Walking in Roadway                                  </th>
+<td class="r b data">     2</td>
+<td class="r b data">     2</td>
+<td class="r b data">     9</td>
+<td class="r b data">     8</td>
+<td class="r b data">     8</td>
+<td class="r b data">    29</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Working in Roadway                                  </th>
+<td class="r b data">     5</td>
+<td class="r b data">     8</td>
+<td class="r b data">    16</td>
+<td class="r b data">     8</td>
+<td class="r b data">     2</td>
+<td class="r b data">    39</td>
+</tr>
+<tr>
+<th class="l t rowheader" scope="row">Total</th>
+<td class="r b data">   495</td>
+<td class="r b data">   552</td>
+<td class="r b data">   546</td>
+<td class="r b data">   570</td>
+<td class="r b data">   498</td>
+<td class="r b data"> 2,661</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
